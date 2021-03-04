@@ -39,6 +39,10 @@ It's important that you take ownership and pride of what you build, and ensure t
 
 Since we work on so many projects, with different product owners, the way you work may differ from project to project. On some you may be using [kanban](https://www.atlassian.com/agile/kanban), on others you may be using [sprints](https://www.atlassian.com/agile/scrum/sprints).
 
+## SDG
+
+SDG, or Software Development Group sits within the CTO Group directorate.
+
 ## Meetings
 
 We have a weekly meeting on Wednesdays at 13:30 - 14:30. There is also a developer fortnightly call where the teams within SDG (Software Development Group) take turns to present.
@@ -76,3 +80,11 @@ The vast majority of our products are built on [AWS](https://aws.amazon.com/), u
 Some of our infrastructure is on [Azure](https://azure.microsoft.com/en-gb/), primarily Cloud Billing Portal.
 
 All our infrastructure (other than very early testing) has to be built using IAC (Infrastructure as Code), namely [Terraform](https://www.terraform.io/).
+
+### DevOps
+
+All our deployments use AWS CodeBuild, unless on Azure, where we're currently using [Github Actions](https://github.com/features/actions) for Cloud Billing Portal.
+
+## Review Process
+
+Typically, we're happy for your code to be reviewed by one other person. However, since you're new, we recommend that when you're reviewing someone's code, you get someone else to check your review too (for the first month at least).

@@ -11,9 +11,9 @@
     * [Databases](###databases)
     * [Infrastructure](###infrastructure)
     * [DevOps](###devops)
-* [Review Process](#rReview-process)
+* [Review Process](##review-process)
+* [Accessibility](##accessibility)
 * [Booking Leave](##booking-leave)
-* [Claiming Expenses](##claiming-expenses)
 
 ## Introduction
 
@@ -97,3 +97,15 @@ All our deployments use AWS CodeBuild, unless on Azure, where we're currently us
 ## Review Process
 
 Typically, we're happy for your code to be reviewed by one other person. However, since you're new, we recommend that when you're reviewing someone's code, you get someone else to check your review too (for the first month at least).
+
+## Accessibility
+
+Jisc is a part-publicly funded charity, this means we have to follow certain laws and regulations around accessibility. For starters, **all** of our products **need** to be accessibile to [WCAG AA 2.1](https://www.w3.org/TR/WCAG21/) standards. There are various tools and plugins available to help with this, but often expert advice is needed. To find this expert advice you can contact the `UX/UI` team, which is lead by benjamin.perry@jisc.ac.uk, or the `test` team, which is lead by david.carter@jisc.ac.uk.
+
+## Intranet
+
+The [Jisc intranet](https://jisc365.sharepoint.com/sites/intranet) is your go to place for most HR related things. If you can't find what you're looking for, contact onedesk@jisc.ac.uk.
+
+## Booking Leave
+
+To book leave, you need to head to the [Jisc intranet](https://jisc365.sharepoint.com/sites/intranet) site, and then click `HR system`. Once there, you will be able to click `Time Away List` and request holidays, sick leave, jury duty etc.

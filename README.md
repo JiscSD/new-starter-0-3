@@ -1,16 +1,19 @@
 # New starter (0 - 3 Years Innovation Team)
 
-* [Introduction](##Introduction)
+* [Introduction](##introduction)
 * [How we work](##How-we-work)
 * [SDG](##SDG)
 * [Meetings](##meetigs)
-* [Technology](##Technology)
-    * [Frontend](###Frontend)
-    * [API](###API)
-    * [Databases](###Databases)
-    * [Infrastructure](###Infrastructure)
-    * [DevOps](###DevOp)
-* [Review Process](##Review-Process)
+* [Coding Standards](##coding-standards)
+* [Technology](##technology)
+    * [Frontend](###frontend)
+    * [API](###api)
+    * [Databases](###databases)
+    * [Infrastructure](###infrastructure)
+    * [DevOps](###devops)
+* [Review Process](#rReview-process)
+* [Booking Leave](##booking-leave)
+* [Claiming Expenses](##claiming-expenses)
 
 ## Introduction
 
@@ -46,6 +49,12 @@ SDG, or Software Development Group sits within the CTO Group directorate.
 ## Meetings
 
 We have a weekly meeting on Wednesdays at 13:30 - 14:30. There is also a developer fortnightly call where the teams within SDG (Software Development Group) take turns to present.
+
+## Coding Standards
+
+When writing code, we need to be using linters. Typically we use `eslint` and `prettier`, and these can be found in the projects listed above.
+
+When writing SQL, we should aim to follow the [SQL Style Guide](https://www.sqlstyle.guide/) as closely as possible.
 
 ## Technology
 
